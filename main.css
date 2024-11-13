@@ -58,7 +58,7 @@ hr{
 }
 
 img{
-    width: 320px
+    width: 100%;
 }
 
 section{
@@ -68,6 +68,10 @@ section{
     line-height: 22px;
 }
 
+.omelette{
+    margin: auto;
+    width: 320px;
+}
 .top{
     margin: 0px auto;
     width: 260px
